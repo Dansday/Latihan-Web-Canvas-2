@@ -1,4 +1,4 @@
-# Latihan Web JavaScript (2)
+# Latihan Web Canvas (2)
 
 This repository contains the source code and documentation for a university project developed using JavaScript. The project is aimed at implementing a all basic function in JavaScript. The implementation is based on from lecturer. The project source code is organized into some folder and file.
 
